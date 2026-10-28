@@ -1,0 +1,11 @@
+{
+  "org": "PennyLaneAI",
+  "repo": "pennylane-honeywell",
+  "versions": [
+    {
+      "commit": "a1a6fb2b3edf20a812c4cb418191847cf1fd8eca",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:42:16.208758+00:00"
+    }
+  ]
+}
