@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-honeywell/commit/a1a6fb2b3edf20a812c4cb418191847cf1fd8eca",
       "git:hexsha": "a1a6fb2b3edf20a812c4cb418191847cf1fd8eca",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T18:42:16.208232+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/pennylane-honeywell/commit/227a29b47d5489583c6a870e268449c53a935602",
